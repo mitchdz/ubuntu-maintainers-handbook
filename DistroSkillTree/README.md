@@ -9,7 +9,12 @@ as examples.
 
 ![Skill Tree](./packaging.svg)
 
-<svg width="400" height="300" xmlns="./packaging.svg"></svg>
+<svg width="400" height="300" xmlns="./packaging.svg">
+    <a href="./packaging.svg">
+        <rect x="50" y="50" width="200" height="100" fill="blue" />
+    </a>
+
+</svg>
 
 # Generation
 
