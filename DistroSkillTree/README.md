@@ -9,6 +9,8 @@ as examples.
 
 ![Skill Tree](./packaging.svg)
 
+<svg width="400" height="300" xmlns="./packaging.svg"></svg>
+
 # Generation
 
 Checked in SVG is generated with [d2](https://d2lang.com) using the following
